@@ -1,2 +1,2 @@
 # Image-Classification-model
-Building a image classification model with a prepared dataset.
+Building an image classification model with a prepared dataset.
