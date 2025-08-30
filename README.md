@@ -1,5 +1,5 @@
 # Image-Classification-model
-The image classifier built using TensorFlow distinguishes between happy and stressed individuals based on provided images. Leveraging convolutional neural networks (CNNs), the model learns intricate patterns and features within images to make accurate predictions. During training, a dataset containing images of both happy and stressed individuals is used to fine-tune the model's parameters through backpropagation, optimizing its ability to differentiate between the two emotional states. 
+The image classifier built using TensorFlow distinguishes between happy and stressed individuals based on provided images. Leveraging convolutional neural networks (CNNs), the model learns complex patterns and features within images to make accurate predictions. During training, a dataset containing images of both happy and stressed individuals is used to fine-tune the model's parameters through backpropagation, optimizing its ability to differentiate between the two emotional states. 
 
 Key components of the system include:
 
